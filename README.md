@@ -36,20 +36,4 @@
   </samp>
 </p>
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: aslanasilon3@gmail.com<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/aslan-asilon31)
-
-</p>
-
-<br/>
-<br/>
-<br/>
 
